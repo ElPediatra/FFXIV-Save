@@ -1,0 +1,113 @@
+{
+  "FileExtension": ".chara",
+  "TypeName": "Anamnesis Character File",
+  "SaveMode": "All",
+  "ModelType": 0,
+  "ObjectKind": "Player",
+  "Race": "Lalafel",
+  "Gender": "Masculine",
+  "Age": "Normal",
+  "Height": 0,
+  "Tribe": "Dunesfolk",
+  "Head": 2,
+  "Hair": 169,
+  "EnableHighlights": true,
+  "Skintone": 154,
+  "REyeColor": 155,
+  "HairTone": 2,
+  "Highlights": 4,
+  "FacialFeatures": "None",
+  "LimbalEyes": 139,
+  "Eyebrows": 0,
+  "LEyeColor": 155,
+  "Eyes": 1,
+  "Nose": 0,
+  "Jaw": 2,
+  "Mouth": 130,
+  "LipsToneFurPattern": 160,
+  "EarMuscleTailSize": 0,
+  "TailEarsType": 1,
+  "Bust": 0,
+  "FacePaint": 0,
+  "FacePaintColor": 75,
+  "MainHand": {
+    "Color": "0, 0, 0",
+    "Scale": "0, 0, 0",
+    "ModelSet": 2701,
+    "ModelBase": 6,
+    "ModelVariant": 1,
+    "DyeId": 0
+  },
+  "OffHand": {
+    "Color": "0, 0, 0",
+    "Scale": "0, 0, 0",
+    "ModelSet": 0,
+    "ModelBase": 0,
+    "ModelVariant": 0,
+    "DyeId": 0
+  },
+  "HeadGear": {
+    "ModelBase": 279,
+    "ModelVariant": 1,
+    "DyeId": 0
+  },
+  "Body": {
+    "ModelBase": 6123,
+    "ModelVariant": 1,
+    "DyeId": 0
+  },
+  "Hands": {
+    "ModelBase": 0,
+    "ModelVariant": 0,
+    "DyeId": 0
+  },
+  "Legs": {
+    "ModelBase": 0,
+    "ModelVariant": 0,
+    "DyeId": 0
+  },
+  "Feet": {
+    "ModelBase": 0,
+    "ModelVariant": 0,
+    "DyeId": 0
+  },
+  "Ears": {
+    "ModelBase": 109,
+    "ModelVariant": 1,
+    "DyeId": 0
+  },
+  "Neck": {
+    "ModelBase": 53,
+    "ModelVariant": 1,
+    "DyeId": 0
+  },
+  "Wrists": {
+    "ModelBase": 53,
+    "ModelVariant": 1,
+    "DyeId": 0
+  },
+  "LeftRing": {
+    "ModelBase": 53,
+    "ModelVariant": 1,
+    "DyeId": 0
+  },
+  "RightRing": {
+    "ModelBase": 53,
+    "ModelVariant": 1,
+    "DyeId": 0
+  },
+  "SkinColor": "0.65261054, 0.47097272, 0.39369476",
+  "SkinGloss": "0.0625, 0.0625, 0.0625",
+  "LeftEyeColor": "0.038446754, 0.15378702, 0.21051903",
+  "RightEyeColor": "0.038446754, 0.15378702, 0.21051903",
+  "LimbalRingColor": "0.0499654, 0.038446754, 0.16955018",
+  "HairColor": "0.64000005, 0.64000005, 0.64000005",
+  "HairGloss": "0.6782007, 0.6782007, 0.6782007",
+  "HairHighlight": "0.24415225, 0.24415225, 0.24415225",
+  "MouthColor": "0.33231837, 0.22889657, 0.16633603, 0.2509804",
+  "BustScale": "1, 1, 1",
+  "Transparency": 1,
+  "MuscleTone": 1,
+  "HeightMultiplier": 0.945,
+  "Author": "Lia"
+}
